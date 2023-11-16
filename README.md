@@ -21,4 +21,6 @@
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=whoru9806@gmail.com"/></a>
 </p>
 
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 
